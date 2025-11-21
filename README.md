@@ -16,3 +16,5 @@ The purpose of this project is to allow the user to perform basic operations. Ch
 3. Decimal points to expand breadth of calculation
 4. Calculation History to view all previous equations
 
+### Started this Journey: October 13th, 2025
+
